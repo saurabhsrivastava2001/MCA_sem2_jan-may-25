@@ -1,9 +1,9 @@
 package one;
 
-public class mca1
+public class mca
 {
 int c;
-void area(int a, int b)
+public void area(int a, int b)
 {
 c=a*b;
 System.out.println("Are="+c);

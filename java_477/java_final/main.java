@@ -5,7 +5,7 @@ enum Day{
         SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
     }
 public class main{
-        public static void main(String[] args){
+        public static void main (String[] args){
             Day day = Day.MONDAY;
             switch(day){
                 case SUNDAY:
